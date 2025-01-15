@@ -15,8 +15,7 @@ const serviceLinks = [
 ];
 
 const NavLink = ({ href, children }: { href: string; children: React.ReactNode }) => {
-  const pathname = usePathname();
-  const isHomePage = pathname === "/";
+  const isHomePage = usePathname() === "/";
   const finalHref = isHomePage && href.startsWith("/#") ? href : href.replace(/^\/#/, "/");
 
   return (

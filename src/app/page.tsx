@@ -28,7 +28,7 @@ export default function Home() {
             >
               <h2 className="text-4xl font-bold">Get in Touch</h2>
               <p className="text-xl text-gray-600">
-                Ready to start your project? Contact us today and let's discuss how we can bring your vision to life.
+                Ready to start your project? Contact us today and let&apos;s discuss how we can bring your vision to life.
               </p>
               
               <div className="flex flex-col items-center space-y-4 py-4">

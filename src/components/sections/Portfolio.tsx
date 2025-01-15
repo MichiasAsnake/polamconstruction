@@ -62,7 +62,7 @@ export function Portfolio() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="grid grid-cols-1 md:grid-cols-3 gap-8"
         >
-          {portfolioImages.map((image, index) => (
+          {portfolioImages.map((image) => (
             <motion.div
               key={image.src}
               className="group relative overflow-hidden bg-white"

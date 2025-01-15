@@ -44,7 +44,7 @@ export default function About() {
                 <p>
                   At Polam Construction, we pride ourselves on our long-standing tradition of 
                   delivering quality building and remodeling services in Lake Wallenpaupack. Since 1974, 
-                  under the guidance of owner George Ann, and for the past 50 years, we have been 
+                  under the guidance of owner George Ann, and for the past 50 years, we&apos;ve been 
                   dedicated to providing our clients with exceptional service and craftsmanship.
                 </p>
                 <p>

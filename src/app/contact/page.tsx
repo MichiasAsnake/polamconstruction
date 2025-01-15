@@ -116,7 +116,7 @@ export default function Contact() {
               <div>
                 <h2 className="text-3xl font-bold mb-6">Get in Touch</h2>
                 <p className="text-gray-600 mb-8">
-                  We'd love to hear from you. Please fill out the form below or use our contact
+                  We&apos;d love to hear from you. Please fill out the form below or use our contact
                   information to reach out directly.
                 </p>
               </div>
