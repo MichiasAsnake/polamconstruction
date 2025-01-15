@@ -91,7 +91,7 @@ export default function About() {
           >
             <h2 className="text-3xl font-bold mb-4">Our Leadership</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Meet the team that's leading Polam Construction into the future while maintaining
+              Meet the team that&apos;s leading Polam Construction into the future while maintaining
               our decades-long commitment to quality and excellence.
             </p>
           </motion.div>
@@ -116,7 +116,7 @@ export default function About() {
                 <h3 className="text-xl font-bold mb-2">George Ann</h3>
                 <p className="text-gray-600 mb-4">Founder & Consultant</p>
                 <p className="text-gray-700">
-                  With over 50 years of experience, George's expertise and vision have shaped
+                  With over 50 years of experience, George&apos;s expertise and vision have shaped
                   Polam Construction into the premier building contractor in the Lake Wallenpaupack area.
                 </p>
               </div>

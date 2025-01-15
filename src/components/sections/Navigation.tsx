@@ -39,7 +39,6 @@ export function Navigation() {
   const { scrollY } = useScroll();
   const height = useTransform(scrollY, [0, 100], [120, 100]);
   const logoScale = useTransform(scrollY, [0, 100], [1, 0.9]);
-  const pathname = usePathname();
   
   return (
     <motion.nav 
